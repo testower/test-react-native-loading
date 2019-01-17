@@ -14,7 +14,6 @@ class App extends Component {
           <a
             className="App-link"
             href="#gohere"
-            rel="noopener noreferrer"
           >
             Learn React
           </a>
